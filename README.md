@@ -1,2 +1,2 @@
-# netflixclone
-a clone of netflix home page using HTML CSS and JS
+YAY
+hello this is me anup doing shit
